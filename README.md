@@ -8,4 +8,4 @@ To run these codes, you need ipython/jupyter notebook and PyTorch. Please note, 
 2. Go to the PyTorch [website](http://pytorch.org/), choose the OS, package manager, python version(2.7) and cuda version(if NVIDIA GPU is available and CUDA is installed) and run the given command to install PyTorch.
 
 ### Running the tutorials
-The tutorials are organised as separate lectures and compiled into ipython notebooks. You can run the sections one by one to see the results.
+The tutorials are organised as separate lectures and compiled into ipython notebooks. You can run the sections in the notebooks one by one to see the results.
